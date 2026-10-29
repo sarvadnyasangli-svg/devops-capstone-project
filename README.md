@@ -1,4 +1,5 @@
-# DevOps-Capstone-Workbook-CICD
+# devops-capstone-project
+
 
 ![IBM DevOps Capstone](ibm--devops-capstone.png)
 
