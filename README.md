@@ -9,8 +9,8 @@ DevOps Customer Account microservice and continuous integration/continuous deplo
 
 ## 📋 Project Specifications & Deliverables
 
-- **Project Name**: DevOps-Capstone-Workbook-CICD
-- **Website Name**: DevOps Capstone Companion Web Hub  
+- **Project Name**: DevOps Capstone
+- **Website Name**: DevOps Capstone 
   *(Hosted at: https://ais-dev-y5idpcbu3oyf7255ok2ftp-494688611919.us-west2.run.app)*
 - **Author**: Written by Brian McCarthy
 
